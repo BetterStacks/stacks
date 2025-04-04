@@ -39,7 +39,7 @@ To make Stacks **the AI layer for a hyper-personalized internet**, here's a brea
    - Provide **AI-powered “context switching”** across different sites  
 
 🔑 **MVP Features:**  
-✅ **AI-powered overlays for websites ((browser extension)[https://chrome.google.com/webstore/detail/nfjbjlpkfimhobegkcoekpkdlokjkcfj] + [SDK](https://engage.stacks.im))**  
+✅ **AI-powered overlays for websites ( [browser extension](https://chrome.google.com/webstore/detail/nfjbjlpkfimhobegkcoekpkdlokjkcfj) + [SDK](https://engage.stacks.im))**  
 ✅ **Smart summaries and filters to remove internet noise**  
 ✅ **Unified login but privacy-first (not a tracking system, but a “passport”)**  
 
