@@ -1,9 +1,9 @@
-![Stacks](logo.png)
+<img src="logo.png" width="96">
 
 ---
 
 ### **Building the AI-Powered, Truly Personal Internet**  
-To make Stacks **the AI layer for a hyper-personalized internet**, here's breakdown into **core building blocks**:  
+To make Stacks **the AI layer for a hyper-personalized internet**, here's a breakdown into **core building blocks**:  
 
 ---
 
