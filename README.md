@@ -1,4 +1,4 @@
-![alt text](logo.png)
+![Stacks](logo.png)
 
 ---
 
