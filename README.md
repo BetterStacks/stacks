@@ -3,7 +3,7 @@
 ---
 
 ### **Building the AI-Powered, Truly Personal Internet**  
-To make Stacks **the AI layer for a hyper-personalized internet**, we need to break it down into **core building blocks**:  
+To make Stacks **the AI layer for a hyper-personalized internet**, here's breakdown into **core building blocks**:  
 
 ---
 
@@ -39,7 +39,7 @@ To make Stacks **the AI layer for a hyper-personalized internet**, we need to br
    - Provide **AI-powered “context switching”** across different sites  
 
 🔑 **MVP Features:**  
-✅ **AI-powered overlays for websites (browser extension?)**  
+✅ **AI-powered overlays for websites ((browser extension)[https://chrome.google.com/webstore/detail/nfjbjlpkfimhobegkcoekpkdlokjkcfj] + [SDK](https://engage.stacks.im))**  
 ✅ **Smart summaries and filters to remove internet noise**  
 ✅ **Unified login but privacy-first (not a tracking system, but a “passport”)**  
 
@@ -95,4 +95,4 @@ This isn’t just **a SaaS tool**—this is **reshaping how people interact with
 We believe it’s a **massive** opportunity. But the **first step is building something people actually use.** We start with the AI-powered personal data vault + browser extension.
 
 🚀 **What do you think? 
-Join us: https://join.com/companies/betterstacks
+Join us: https://betterstacks.com
